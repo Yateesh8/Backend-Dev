@@ -1,0 +1,16 @@
+{
+  "name": "bridgelabz_backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "hello1.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "url": "^0.11.4"
+  }
+}
