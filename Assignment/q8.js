@@ -6,7 +6,7 @@ writeFile overwrites the existing file content.
 appendFile adds new data to the end of the file.
 `;
 
-fs.writeFile("q8_ans.txt", ans, "Utf8", ((err)=>{
+fs.writeFile("q8_ans.txt", ans, "utf8", ((err)=>{
     if(err){
         console.log(err);
     } else {

@@ -6,7 +6,7 @@ A directory can be safely deleted by removing all its files and
 subdirectories recursively with force enabled.
 `;
 
-fs.writeFile("q5_ans.txt", ans, "Utf8", ((err)=>{
+fs.writeFile("q5_ans.txt", ans, "utf8", ((err)=>{
     if(err){
         console.log(err);
     } else {

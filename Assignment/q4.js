@@ -7,7 +7,7 @@ EACCES  - Permission denied
 EISDIR  - Path refers to a directory   
 `;
 
-fs.writeFile("q4_ans.txt", ans, "Utf8", ((err)=>{
+fs.writeFile("q4_ans.txt", ans, "utf8", ((err)=>{
     if(err){
         console.log(err);
     } else {

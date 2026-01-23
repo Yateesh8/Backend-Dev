@@ -7,7 +7,7 @@ strings are correctly stored and retrieved.
 
 `;
 
-fs.writeFile("q3_ans.txt", ans, "Utf8", ((err)=>{
+fs.writeFile("q3_ans.txt", ans, "utf8", ((err)=>{
     if(err){
         console.log(err);
     } else {

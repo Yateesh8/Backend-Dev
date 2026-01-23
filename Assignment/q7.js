@@ -6,7 +6,7 @@ Error handling prevents application crashes and helps manage runtime
 issues such as missing files or permission problems.
 `;
 
-fs.writeFile("q7_ans.txt", ans, "Utf8", ((err)=>{
+fs.writeFile("q7_ans.txt", ans, "utf8", ((err)=>{
     if(err){
         console.log(err);
     } else {

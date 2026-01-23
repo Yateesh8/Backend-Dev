@@ -7,7 +7,7 @@ writable stream without storing the entire data in memory.
 
 `;
 
-fs.writeFile("q6_ans.txt", ans, "Utf8", ((err)=>{
+fs.writeFile("q6_ans.txt", ans, "utf8", ((err)=>{
     if(err){
         console.log(err);
     } else {
