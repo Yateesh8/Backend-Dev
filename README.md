@@ -1,4 +1,4 @@
-📘 NodeJS Programming Repository..
+📘 NodeJS Programming Repository.
 
 This repository contains my learning and practice work related to **Node.js**, including core concepts, frameworks, and hands-on exercises.
 
