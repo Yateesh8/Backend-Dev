@@ -38,12 +38,12 @@ covering core concepts, frameworks, and hands-on exercises.
 
 <br>
 
-| Branch | Focus |
-|---|---|
-| `main` | Primary project structure, general setup & base files |
-| `NodeJS-programming` | Node.js fundamentals, modules & package management |
-| `nodejs-programming` | Additional practice files & concept-based exercises |
-| `Practice-Tasks` | Hands-on problems, small assignments & coding exercises |
+| # | Branch | Focus |
+|---|---|---|
+| 1 | `main` | Primary project structure, general setup & base files |
+| 2 | `NodeJS-programming` | Node.js fundamentals, modules & package management |
+| 3 | `nodejs-programming` | Additional practice files & concept-based exercises |
+| 4 | `Practice-Tasks` | Hands-on problems, small assignments & coding exercises |
 
 </details>
 
@@ -52,10 +52,10 @@ covering core concepts, frameworks, and hands-on exercises.
 
 <br>
 
-| Branch | Focus |
-|---|---|
-| `express-framework` | Express.js basics, routing, middleware & server creation |
-| `restful-apis-routing` | REST API design, CRUD operations & API structure best practices |
+| # | Branch | Focus |
+|---|---|---|
+| 5 | `express-framework` | Express.js basics, routing, middleware & server creation |
+| 6 | `restful-apis-routing` | REST API design, CRUD operations & API structure best practices |
 
 </details>
 
@@ -64,10 +64,10 @@ covering core concepts, frameworks, and hands-on exercises.
 
 <br>
 
-| Branch | Focus |
-|---|---|
-| `file-system-operations` | Node.js `fs` module — reading/writing files, async vs sync |
-| `unix-commands-git-github` | Unix/Linux commands, Git workflow & GitHub collaboration |
+| # | Branch | Focus |
+|---|---|---|
+| 7 | `file-system-operations` | Node.js `fs` module — reading/writing files, async vs sync |
+| 8 | `unix-commands-git-github` | Unix/Linux commands, Git workflow & GitHub collaboration |
 
 </details>
 
