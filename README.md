@@ -1,119 +1,126 @@
-📘 NodeJS Programming Repository
+<!-- Banner -->
+<div align="center">
 
-This repository contains my learning and practice work related to **Node.js**, including core concepts, frameworks, and hands-on exercises.
+# 📘 NodeJS Programming
 
-It is organized using multiple branches, where each branch focuses on a specific topic.
+**A structured collection of Node.js learning and practice work**
+covering core concepts, frameworks, and hands-on exercises.
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+
+> Organized **topic-wise using branches** — each branch focuses on a specific concept for clean, structured learning.
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| Node.js | Runtime environment & core modules |
+| Express.js | Web framework, routing & middleware |
+| JavaScript (ES6+) | Language & logic |
+| Git & GitHub | Version control & branch-based organization |
 
 ---
 
 ## 🌿 Branch Structure
 
-🔹 `main` (default)
+> **8 branches** — follow them in order for a structured backend learning path.
 
-* Contains the primary project structure
-* General setup and base files
+<details>
+<summary><b>🟢 Node.js Fundamentals</b> — Core concepts & setup</summary>
 
----
+<br>
 
-### 🔹 `NodeJS-programming`
+| Branch | Focus |
+|---|---|
+| `main` | Primary project structure, general setup & base files |
+| `NodeJS-programming` | Node.js fundamentals, modules & package management |
+| `nodejs-programming` | Additional practice files & concept-based exercises |
+| `Practice-Tasks` | Hands-on problems, small assignments & coding exercises |
 
-Covers:
+</details>
 
-* Node.js fundamentals
-* Modules and package management
-* Core concepts and examples
+<details>
+<summary><b>🔵 Express & REST APIs</b> — Server & API development</summary>
 
----
+<br>
 
-### 🔹 `nodejs-programming`
+| Branch | Focus |
+|---|---|
+| `express-framework` | Express.js basics, routing, middleware & server creation |
+| `restful-apis-routing` | REST API design, CRUD operations & API structure best practices |
 
-Contains:
+</details>
 
-* Additional Node.js practice files
-* Concept-based coding exercises
+<details>
+<summary><b>🟡 File System & DevOps</b> — I/O operations & tooling</summary>
 
----
+<br>
 
-### 🔹 `Practice-Tasks`
+| Branch | Focus |
+|---|---|
+| `file-system-operations` | Node.js `fs` module — reading/writing files, async vs sync |
+| `unix-commands-git-github` | Unix/Linux commands, Git workflow & GitHub collaboration |
 
-Includes:
-
-* Hands-on practice problems
-* Small assignments and coding exercises
-
----
-
-### 🔹 `express-framework`
-
-Focuses on:
-
-* Express.js basics
-* Routing
-* Middleware
-* Server creation
+</details>
 
 ---
 
-### 🔹 `restful-apis-routing`
+## 🎯 Purpose
 
-Covers:
+<details>
+<summary><b>Why this repository exists</b></summary>
 
-* REST API design
-* CRUD operations
-* Route handling
-* API structure best practices
+<br>
 
----
+- 📖 **Step-by-step Node.js learning** — from fundamentals to REST APIs
+- 🖥 **Backend development practice** — real server-side concepts & patterns
+- 🗂 **Organized topic-wise code management** — easy to navigate and revisit
+- 🔧 **Foundation for full-stack development** — pairs well with any frontend stack
 
-### 🔹 `file-system-operations`
-
-Includes:
-
-* Working with Node.js File System module
-* Reading/writing files
-* Async vs Sync operations
-
----
-
-### 🔹 `unix-commands-git-github`
-
-Contains:
-
-* Basic Unix/Linux commands
-* Git commands
-* GitHub workflow
-
----
-
-## 🛠 Technologies Used
-
-* Node.js
-* Express.js
-* JavaScript (ES6+)
-* Git & GitHub
+</details>
 
 ---
 
 ## 🚀 How to Use
 
 ```bash
-# Clone the repository
+# 1. Clone the repository
 git clone <repo-url>
 
-# Switch to a specific branch
-git checkout branch-name
+# 2. Switch to a specific branch
+git checkout express-framework
+
+# 3. Install dependencies (if any)
+npm install
+
+# 4. Run the project
+node index.js
+```
+
+> 💡 **Tip:** Start with `NodeJS-programming` to build your fundamentals before jumping into `express-framework` or `restful-apis-routing`.
 
 ---
 
-## 🎯 Purpose
+## 📌 Recommended Learning Order
 
-- Step-by-step Node.js learning
-- Backend development practice
-- Organized topic-wise code management
+```
+main → NodeJS-programming → nodejs-programming → Practice-Tasks
+     → file-system-operations → unix-commands-git-github
+     → express-framework → restful-apis-routing
+```
 
 ---
 
-## 👨‍💻 Author
+<div align="center">
 
-Yateesh Gangwar
-Backend Development Learner
+👨‍💻 **Yateesh Gangwar** — Backend Development Learner
+
+</div>
