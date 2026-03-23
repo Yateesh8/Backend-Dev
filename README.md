@@ -34,7 +34,7 @@ covering core concepts, frameworks, and hands-on exercises.
 > **8 branches** — follow them in order for a structured backend learning path.
 
 <details>
-<summary><b>🟢 Node.js Fundamentals</b> — Core concepts & setup</summary>
+<summary><b>🟢 Node.js Fundamentals</b> — Core concepts & setup (1-4) </summary>
 
 <br>
 
@@ -48,7 +48,7 @@ covering core concepts, frameworks, and hands-on exercises.
 </details>
 
 <details>
-<summary><b>🔵 Express & REST APIs</b> — Server & API development</summary>
+<summary><b>🔵 Express & REST APIs</b> — Server & API development (5-6)</summary>
 
 <br>
 
@@ -60,7 +60,7 @@ covering core concepts, frameworks, and hands-on exercises.
 </details>
 
 <details>
-<summary><b>🟡 File System & DevOps</b> — I/O operations & tooling</summary>
+<summary><b>🟡 File System & DevOps</b> — I/O operations & tooling (7-8) </summary>
 
 <br>
 
